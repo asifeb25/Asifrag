@@ -1,0 +1,15 @@
+{
+	"name": "asifragdatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7eca1c2d-153f-4bc2-8662-5e46f228b770",
+		"tenantId": "6b3fc660-2123-40f3-86f3-f72a56293ea6"
+	}
+}
